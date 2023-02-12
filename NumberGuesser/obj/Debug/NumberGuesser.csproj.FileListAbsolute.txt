@@ -1,0 +1,16 @@
+C:\Users\Fuad Pc\Desktop\ASP.Net Core\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Fuad Pc\Desktop\ASP.Net Core\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Fuad Pc\Desktop\ASP.Net Core\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Fuad Pc\Desktop\ASP.Net Core\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\Fuad Pc\Desktop\ASP.Net Core\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fuad Pc\Desktop\ASP.Net Core\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Fuad Pc\Desktop\ASP.Net Core\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Fuad Pc\Desktop\ASP.Net Core\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
+C:\Users\Fuad Pc\Desktop\.NetCore Projects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Fuad Pc\Desktop\.NetCore Projects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Fuad Pc\Desktop\.NetCore Projects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Fuad Pc\Desktop\.NetCore Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\Fuad Pc\Desktop\.NetCore Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fuad Pc\Desktop\.NetCore Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Fuad Pc\Desktop\.NetCore Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Fuad Pc\Desktop\.NetCore Projects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
